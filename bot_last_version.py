@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import telebot
 from telebot import types
 import requests
